@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:java.abdurasulov@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?2022101717363" alt="Gmail" height="40" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
